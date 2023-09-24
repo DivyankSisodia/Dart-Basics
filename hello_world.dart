@@ -3,7 +3,7 @@
 //   print(name);
 // }
 
-// null safety 
+// null safety
 // void main(){
 //   String? name;
 //   print(name);
@@ -18,8 +18,7 @@
 
 // }
 
-void main(){
+void main() {
   late int x = 4;
   print(x);
 }
-
